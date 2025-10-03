@@ -20,7 +20,7 @@ if (isset($_GET["e"])) {
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'gkithupa@gmail.com';
-    $mail->Password = 'gylkerjusdpigqre';
+    $mail->Password = 'secret';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port = 465;
     $msg = "Your verification code is: " . $code;
