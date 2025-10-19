@@ -2,7 +2,10 @@
 
 <p align="center"><img width="1346" height="647" alt="image" src="https://github.com/user-attachments/assets/2b946dfa-e8f0-43cb-8bc2-b19e6bd976d3" /></p>
 
-<p id="description">Multi seller ecommerce platform with an admin panel made using the complete LAMP stack.</p>
+<p id="description">
+  Multi seller ecommerce platform with an admin panel made using the complete LAMP stack.
+  I made this project to sharpen my LAMP skills and what better all-rounder to do than make a ecommerce platform, this is also my first real-world application.
+</p>
 
 <h2>🚀 Demo</h2>
 
