@@ -1,6 +1,6 @@
 <h1 align="center" id="title">NewTech-Ecommerce-Store</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
+<p align="center"><img width="1346" height="647" alt="image" src="https://github.com/user-attachments/assets/2b946dfa-e8f0-43cb-8bc2-b19e6bd976d3" /></p>
 
 <p id="description">Multi seller ecommerce platform with an admin panel made using the complete LAMP stack.</p>
 
@@ -9,9 +9,6 @@
 [Coming soon...](Coming soon...)
 
 <h2>Project Screenshots:</h2>
-
-<h4>Home Page</h4>
-<img width="1348" height="647" alt="image" src="https://github.com/user-attachments/assets/1ca5a3ee-f718-4fb1-a70a-003ec582c656" />
 
 <h4>Single Product View</h4>
 <img width="1320" height="585" alt="image" src="https://github.com/user-attachments/assets/e909cc94-9328-4bb0-bb81-61744a0a7609" />
