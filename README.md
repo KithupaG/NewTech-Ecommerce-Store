@@ -10,7 +10,18 @@
 
 <h2>Project Screenshots:</h2>
 
-  
+<h4>Home Page</h4>
+<img width="1348" height="647" alt="image" src="https://github.com/user-attachments/assets/1ca5a3ee-f718-4fb1-a70a-003ec582c656" />
+
+<h4>Single Product View</h4>
+<img width="1320" height="585" alt="image" src="https://github.com/user-attachments/assets/e909cc94-9328-4bb0-bb81-61744a0a7609" />
+
+<h4>Admin Panel</h4>
+<img width="1345" height="645" alt="image" src="https://github.com/user-attachments/assets/09ecfea5-423f-4a17-9770-6f6d610048dc" />
+
+<h4>Seller Dashboard</h4>
+<img width="1347" height="644" alt="image" src="https://github.com/user-attachments/assets/425f4932-2817-42dd-aeb2-74cb4a026980" />
+
   
 <h2>🧐 Features</h2>
 
